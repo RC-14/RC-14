@@ -8,24 +8,24 @@
 <div align="center">
 	<div>
 		<h3>Languages I know</h3>
-		<a href="">
+		<a href="#">
 			<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 		</a>
-		<a href="">
+		<a href="#">
 			<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 		</a>
 		<br>
-		<a href="">
+		<a href="#">
 			<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 		</a>
-		<a href="">
+		<a href="#">
 			<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		</a>
 		<br>
-		<a href="">
+		<a href="#">
 			<img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
 		</a>
-		<a href="">
+		<a href="#">
 			<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 		</a>
 	</div>
@@ -47,17 +47,17 @@
 	</div>
 	<div>
 		<h3>Software I appreciate</h3>
-		<a href="">
+		<a href="https://www.mozilla.org/firefox/new/">
 			<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 		</a>
-		<a href="">
+		<a href="https://neovim.io/">
 			<img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 		</a>
 		<br>
-		<a href="">
+		<a href="https://bitwarden.com/download/">
 			<img alt="Bitwarden" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white">
 		</a>
-		<a href="">
+		<a href="https://code.visualstudio.com/">
 			<img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0078d7&label=&message=VS%20Code">
 		</a>
 	</div>
