@@ -38,15 +38,19 @@
 		<a href="https://kernel.org/">
 			<img alt="GNU/Linux" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linux&logoColor=black&color=fcc624&label&message=GNU%2FLinux">
 		</a>
-		<a href="https://manjaro.org/">
-			<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
+		<a href="https://getfedora.org/">
+			<img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 		</a>
 		<br>
-		<a href="https://www.apple.com/">
+		<a href="https://www.apple.com/macos/">
 			<img alt="Mac OS" src="https://img.shields.io/static/v1?style=for-the-badge&logo=apple&logoColor=cfcfcf&color=131313&label&message=Mac%20OS">
 		</a>
-		<a href="https://www.apple.com/">
+		<a href="https://www.apple.com/ios/">
 			<img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=cfcfc&color=131313">
+		</a>
+		<br>
+		<a href="https://www.microsoft.com/windows/">
+			<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 		</a>
 	</div>
 	<div>
