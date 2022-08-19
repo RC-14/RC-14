@@ -1,6 +1,10 @@
 <div align="center">
-	<img alt="Account Stats" width="51.8%" src="https://github-readme-stats.vercel.app/api?username=RC-14&count_private=true&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=1f6feb&hide_title=true&hide_border=true&disable_animations=true&cache_seconds=86400">
-	<img alt="Top Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-14&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=1f6feb&hide_border=true&langs_count=6&cache_seconds=86400">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img alt="Account Stats" width="51.8%" src="https://github-readme-stats.vercel.app/api?username=RC-14&count_private=true&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=1f6feb&hide_title=true&hide_border=true&disable_animations=true&cache_seconds=86400">
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img alt="Top Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-14&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=1f6feb&hide_border=true&langs_count=6&cache_seconds=86400">
+	</a>
 	<br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">Repo for the stats</a>
 </div>
@@ -11,7 +15,7 @@
 		<a href="#">
 			<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 		</a>
-		<a href="#">
+		<a href="https://www.typescriptlang.org/">
 			<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 		</a>
 		<br>
@@ -22,10 +26,10 @@
 			<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		</a>
 		<br>
-		<a href="#">
+		<a href="https://www.swift.org/">
 			<img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
 		</a>
-		<a href="#">
+		<a href="https://www.lua.org/">
 			<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 		</a>
 	</div>
@@ -38,23 +42,23 @@
 			<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
 		</a>
 		<br>
-		<a href="#">
+		<a href="https://www.apple.com/">
 			<img alt="Mac OS" src="https://img.shields.io/static/v1?style=for-the-badge&logo=apple&logoColor=cfcfcf&color=131313&label&message=Mac%20OS">
 		</a>
-		<a href="#">
+		<a href="https://www.apple.com/">
 			<img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=cfcfc&color=131313">
 		</a>
 	</div>
 	<div>
 		<h3>Software I appreciate</h3>
-		<a href="https://www.mozilla.org/firefox/new/">
+		<a href="https://firefox.com/">
 			<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 		</a>
 		<a href="https://neovim.io/">
 			<img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 		</a>
 		<br>
-		<a href="https://bitwarden.com/download/">
+		<a href="https://bitwarden.com/">
 			<img alt="Bitwarden" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white">
 		</a>
 		<a href="https://code.visualstudio.com/">
