@@ -87,3 +87,7 @@
 <div align="center">
 	<a href="https://github.com/Ileriayo/markdown-badges">Repo for the badges</a>
 </div>
+<br>
+<div align="center">
+	<h4>If you want to contact me create an issue on this repo.</h5>
+</div>
