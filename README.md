@@ -89,5 +89,5 @@
 </div>
 <br>
 <div align="center">
-	<h4>If you want to contact me create an issue on this repo.</h5>
+	<h4>If you want to contact me <a href="https://github.com/RC-14/RC-14/issues/new">create an issue on this repo</a>.</h5>
 </div>
