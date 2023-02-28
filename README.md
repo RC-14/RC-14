@@ -48,10 +48,6 @@
 		<a href="https://www.apple.com/ios/">
 			<img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=cfcfc&color=131313">
 		</a>
-		<br>
-		<a href="https://www.microsoft.com/windows/">
-			<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-		</a>
 	</div>
 	<div>
 		<h3>Software I appreciate</h3>
