@@ -38,8 +38,8 @@
 		<a href="https://kernel.org/">
 			<img alt="GNU/Linux" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linux&logoColor=black&color=fcc624&label&message=GNU%2FLinux">
 		</a>
-		<a href="https://manjaro.org/download/">
-			<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
+		<a href="https://wiki.archlinux.org/title/Installation_guide">
+			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
 		</a>
 		<br>
 		<a href="https://www.apple.com/macos/">
