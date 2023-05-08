@@ -78,12 +78,20 @@
 			<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=f0f6fc&color=161b22">
 		</a>
 	</div>
-</div>
-<br>
-<div align="center">
-	<a href="https://github.com/Ileriayo/markdown-badges">Repo for the badges</a>
-</div>
-<br>
-<div align="center">
-	<h4>If you want to contact me <a href="https://github.com/RC-14/RC-14/issues/new">create an issue on this repo</a>.</h5>
+	<div>
+		<h3>Cool People</h3>
+		<a href="https://github.com/PhilPinsdorf">
+			<img alt="PhilPinsdorf" src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&logoColor=white&color=175641&label=&message=Phil%20Pinsdorf">
+		</a>
+		<a href="https://github.com/Niggulas">
+			<img alt="Niggulas" src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&logoColor=white&color=420420&label=&message=Niggulas">
+		</a>
+	</div>
+	<div>
+		<a href="https://github.com/Ileriayo/markdown-badges">Repo for the badges</a>
+	</div>
+	<br>
+	<div>
+		<h5>If you want to contact me <a href="https://github.com/RC-14/RC-14/issues/new">create an issue on this repo</a>.</h5>
+	</div>
 </div>
