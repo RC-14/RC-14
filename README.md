@@ -92,6 +92,6 @@
 	</div>
 	<br>
 	<div>
-		<h5>If you want to contact me <a href="https://github.com/RC-14/RC-14/issues/new">create an issue on this repo</a>.</h5>
+		<h5><a href="https://github.com/RC-14/RC-14/issues/new">If you want to contact me create an issue on this repo</a>.</h5>
 	</div>
 </div>
