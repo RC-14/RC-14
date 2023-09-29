@@ -11,6 +11,11 @@
 
 <div align="center">
 	<div>
+		<h3>About me</h3>
+		<p>Born in 2004</p>
+		<p>Studying Computer Science at <a href="https://www.fh-aachen.de/">FH Aachen University of Applied Science</a></p>
+	</div>
+	<div>
 		<h3>Languages I know</h3>
 		<a href="#">
 			<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -24,13 +29,6 @@
 		</a>
 		<a href="#">
 			<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-		</a>
-		<br>
-		<a href="https://www.swift.org/">
-			<img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-		</a>
-		<a href="https://www.lua.org/">
-			<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 		</a>
 	</div>
 	<div>
